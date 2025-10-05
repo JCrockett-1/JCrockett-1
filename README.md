@@ -1,16 +1,22 @@
-## Hi there 👋
+# James Crockett
 
-<!--
-**JCrockett-1/JCrockett-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm James Crockett, a student at Brigham Young University-Idaho interested in Financial Planning. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning to be a better professional! I'm also studying for my Series 65 exam.
+- My goals are to graduate next April (3 years total), and to get a second internship in the fall.
+- Ask me about my experience at Revolution Financial Management these last 6 months!
+
+## Technologies and Tools
+
+- Proficient in: <Python, C#>
+- Skills: <Leadership, Hardworking, Quick at Learning>
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/james-crockett/) profile
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
